@@ -24,7 +24,7 @@
 ## 🛠️ Teknologi & Arsitektur
 * **Framework:** Flutter (Dart)
 * **Backend:** Supabase (PostgreSQL)
-* **Architecture:** MVVM (via Provider/Bloc) *[Pilih salah satu]*
+* **Architecture:** MVVM (via Provider/Bloc) 
 * **Auth:** Magic Link / Email & Password
 
 ## 🚀 Cara Menjalankan (Installation)
